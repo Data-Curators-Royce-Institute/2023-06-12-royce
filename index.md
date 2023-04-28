@@ -204,12 +204,12 @@ special instructions.
   organizers in advance.  If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
-  attempt to provide them.
+  attempt to provide them. <strong> Please contact the organisers if you require a personal emergency evacuation plan (PEEP), it is important that we have one in place for you in case of an emergency, should you require it.</strong>
 </p>
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
   notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you. Please contact the organisers if you require a personal emergency evacuation plan (PEEP), it is important that we have one in place for you in case of an emergency, should you require it.
+  anything we can do to make this workshop more accessible to you.
 </p>
 {% endif %}
 
