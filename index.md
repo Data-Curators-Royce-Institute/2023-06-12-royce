@@ -69,6 +69,8 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
+<h2 id="evenbrite">Registration</h2>
+If you are interested in purchasing tickets for the event please go to the <a href="https://www.eventbrite.co.uk/e/software-carpentry-shell-git-python-tickets-620552678767">Eventbrite Registration</a> page, where you will find more information about tickets, the event structure and some FAQ. If you are happy to do so, please purchase tickets for each day below.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
