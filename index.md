@@ -359,6 +359,7 @@ of code below the Schedule `<h2>` header below with
 {% endcomment %}
 
 <h2 id="schedule">Schedule</h2>
+Please note that the schedule presented is for guidance purposes. The learners will set the pace and time allocation is according to what the group of learners wants to focus on.
 {% include custom-schedule.html %}
 {% comment %}
 {% if site.carpentry == "swc" %}
