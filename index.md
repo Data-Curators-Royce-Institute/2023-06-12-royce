@@ -335,7 +335,7 @@ change the value of `carpentry` to `incubator`.
 <h2 id="feedback-form">Feedback form</h2>
 <p>Please fill in the Data Curation and RSE Feedback form as it will help us improve our teaching.</p>
 <p><a href="form pending">Feedback form</a></p>
-
+<hr/>
 {% comment %}
 SCHEDULE
 
